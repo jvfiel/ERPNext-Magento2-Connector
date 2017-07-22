@@ -1,4 +1,4 @@
 # ERPNext-Magento2-Connector
 # requires:
-frappe
+frappe<br>
 requests_oauthlib
